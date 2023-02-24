@@ -325,13 +325,4 @@ if a3:
     video2 = video1.read()
     st.video(video2)
 
-    st.subheader('HOW TO PROPAGATE CACTUS EASY & FAST')
-    video1 = open('ZZ.mp4', 'rb')
-    video2 = video1.read()
-    st.video(video2)
-
-    st.subheader('How and When to Water Succulents for Beginners💧🌱')
-    video1 = open('WW.mp4', 'rb')
-    video2 = video1.read()
-    st.video(video2)
     st.button("Home")
